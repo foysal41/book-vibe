@@ -1,16 +1,57 @@
-# React + Vite
+# Book Vibe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Book Vibe is a modern book management and discovery web application where users can browse books, view detailed information, and organize books into personalized reading lists and wishlists.
 
-Currently, two official plugins are available:
+##  Live Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Browse available books
+* View detailed book information
+* Add books to Read List
+* Add books to Wish List
+* Store selected books using Local Storage
+* Responsive design for mobile, tablet, and desktop
+* Dynamic routing for individual book details
+* User-friendly interface with modern UI design
 
-## React Compiler
+##  Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend
 
-## Expanding the ESLint configuration
+* React.js
+* React Router DOM
+* Tailwind CSS
+* DaisyUI
+* React Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### State Management
+
+* React Context API
+
+## Functionality
+
+### Home Page
+
+* Displays featured books and banner section
+* Shows available books in a grid layout
+
+### Read List
+
+* Shows all books marked as read
+* Displays book cover, title, and review
+
+### Wish List
+
+* Shows books users want to read later
+
+
+### Responsive Design
+
+* Optimized for all screen sizes
+
+##  Project Goal
+
+The goal of Book Vibe is to provide readers with a simple and visually appealing platform to manage their reading journey and keep track of books they have read or plan to read.
+
+##  Developed By
+
+Foysal Jaman
