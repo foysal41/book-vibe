@@ -13,6 +13,8 @@ Book Vibe is a modern book management and discovery web application where users 
 * Dynamic routing for individual book details
 * User-friendly interface with modern UI design
 
+## Live Link: book-vibe-vert.vercel.app
+
 ##  Technologies Used
 
 ### Frontend
